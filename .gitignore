@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.parquet
+*.h5
+
+# Model weights 
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+models/
+
+# Environment
+.env
+venv/
