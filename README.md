@@ -1,4 +1,4 @@
-# Smart MCQ Solver — DL/GenAI Project (Team 26, Term 2)
+# Smart MCQ Solver
 
 Kaggle competition where we build systems that solve multiple-choice questions. Given a prompt and five options (A-E), the goal is to predict the top 3 most likely answers. Evaluation metric is MAP@3.
 
@@ -35,6 +35,3 @@ Kaggle competition where we build systems that solve multiple-choice questions. 
 
 All notebooks are designed to run on Kaggle with GPU (P100/T4). Add the competition dataset (`smart-mcq-solver-challenge`) as input and set your WandB API key in Kaggle Secrets.
 
-## Team
-
-- NOORA (23f2004192)
